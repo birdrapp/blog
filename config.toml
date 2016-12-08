@@ -1,6 +1,6 @@
 title = "birdr"
 languageCode = "en-gb"
-baseurl = "http://blog.birdr.co.uk/"
+baseurl = "https://blog.birdr.co.uk/"
 
 theme = "hugo-minimalist-theme"
 
