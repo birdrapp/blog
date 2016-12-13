@@ -5,14 +5,14 @@ languageCode = "en-gb"
 title = "Birdr"
 theme = "hugo-cactus-theme"
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-88907788-1"
 # Disable comments by leaving disqusShortname empty
 disqusShortname = "birdr"
 
 [params]
     name = "Matthew Williams"
-    description = "Describe your website"
-    bio = "Programmer - Gopher"
+    description = "A blog about building a bird watching community - or not."
+    bio = "An open source bird watching application"
     # Enter optionally your twitter account
     twitter = ""
     enableRSS = true
@@ -34,7 +34,7 @@ disqusShortname = "birdr"
     readMore = ""
     copyright = ""
     # Sharing options and author information in posts
-    aboutAuthor = "I'm an enthusiastic gopher."
+    aboutAuthor = "A developer with an interest in birding."
     tweet = ""
     share = ""
     # 404 page
@@ -49,3 +49,4 @@ disqusShortname = "birdr"
 # Add additional social link entries underneath
 [social]
     github   = "https://www.github.com/birdrapp"
+    linkedin = "https://www.linkedin.com/in/matthew-williams"
