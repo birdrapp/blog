@@ -1,32 +1,51 @@
-title = "birdr"
-languageCode = "en-gb"
+# Site settings
 baseurl = "http://blog.birdr.co.uk/"
-
-theme = "hugo-minimalist-theme"
+themesDir = "themes"
+languageCode = "en-gb"
+title = "Birdr"
+theme = "hugo-cactus-theme"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+# Disable comments by leaving disqusShortname empty
+disqusShortname = "birdr"
 
 [params]
-    site_author = "Matthew Williams"
-    site_description = "Following the development of birdr."
-    location = "London"
-    # All paths are relative to the baseurl. Put your files
-    # somewhere in the static folder.
-    avatar = "img/profile.jpg"
-    header_background = "img/bg.jpg"
-    header_title = "birdr"
-    copyright = "Powered by [Hugo](http://gohugo.io)."
+    name = "Matthew Williams"
+    description = "Describe your website"
+    bio = "Programmer - Gopher"
+    # Enter optionally your twitter account
+    twitter = ""
+    enableRSS = true
 
-    # Enable gogle analytics by entering your tracking code
-    google_analytics = ""
+    # Add custom assets with their paths relative to the static folder
+    customCSS = []
+    customJS  = []
 
+    # The variables below are optionally too and can be used to
+    # translate or customize each string of the theme.
+
+    # Navigation links
+    home = ""
+    about = ""
+    subscribe = ""
+    # Pagination links
+    olderPosts = ""
+    newerPosts = ""
+    readMore = ""
+    copyright = ""
+    # Sharing options and author information in posts
+    aboutAuthor = "I'm an enthusiastic gopher."
+    tweet = ""
+    share = ""
+    # 404 page
+    title404 = ""
+    subtitle404 = ""
+
+    # Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+    iconFont = "font-awesome"
+    # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+    socialIconStyle = "rounded"
+
+# Add additional social link entries underneath
 [social]
-    # Add your social network accounts to the profile section on the left
-    # by entering your username. The links to your account will be
-    # create automatically.
-    twitter   = ""
-    facebook  = ""
-    linkedin  = ""
-    behance   = ""
-    dribbble  = ""
-    instagram = ""
-    github    = "birdrapp"
-    gplus     = ""
+    github   = "https://www.github.com/birdrapp"
