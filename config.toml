@@ -12,7 +12,7 @@ disqusShortname = "birdr"
 [params]
     name = "Matthew Williams"
     description = "A blog about building a bird watching community - or not."
-    bio = "An open source bird watching application"
+    bio = "Building an open source bird watching application"
     # Enter optionally your twitter account
     twitter = ""
     enableRSS = true
