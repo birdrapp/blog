@@ -1,8 +1,11 @@
 +++
-title = "Welcome"
+title = "Welcome to birdr"
+description = "A short history on birdtech"
 draft = false
 date = "2016-12-13T10:28:43Z"
 +++
+
+
 I've been curious about bird watching my whole life. Both my parents are keen twitchers and I was often taken on thinly-veiled 'holidays' to cold & windy places all in the pursuit of finding some obscure little brown bird. As I've grown older I've found myself becoming fascinated with trying to build software to improve a bird watchers life, which I've come to refer to as _birdtech_.
 
 In my opinion, bird watching is a hobby that is perfectly suited to technology. It is a hobby based on recording bird sightings including date & time, location and photographs - things that a modern smartphone excels at. Despite this, very little (decent) software exists for bird watchers. There are a host of listing tools, most of which are clunky desktop applications or overly complicated for all but the most avid _listers_. Over the past 10 years I've made several attempts to change this.
