@@ -1,5 +1,5 @@
 +++
-title = "Welcome to birdr"
+title = "Welcome to Birdr"
 description = "A short history on birdtech"
 draft = false
 date = "2016-12-13T10:28:43Z"
