@@ -6,7 +6,7 @@ draft = false
 
 +++
 
-![alt text](/images/post/whats-the-big-idea.jpg)
+![An owl deep in contemplation](/images/post/whats-the-big-idea.jpg)
 
 What is it about Birdr that keeps me coming back? I guess I have this feeling that, if done right, Birdr could become as ubiquitous to birding as YouTube is to videos. It would serve as the place to go to keep all your lists & photos. The place to find out about rare birds in your area. The place to read about birding in remote locations and the place to share knowledge and offer encouragement to new birders. This is the vision I have and what keeps me coming back.
 

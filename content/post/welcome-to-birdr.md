@@ -5,6 +5,7 @@ draft = false
 date = "2016-12-13T10:28:43Z"
 +++
 
+![A mug outside on a tree that reads "The adventure begins"](/images/post/welcome-to-birdr.jpg)
 
 I've been curious about bird watching my whole life. Both my parents are keen twitchers and I was often taken on thinly-veiled 'holidays' to cold & windy places all in the pursuit of finding some obscure little brown bird. As I've grown older I've found myself becoming fascinated with trying to build software to improve a bird watchers life, which I've come to refer to as _birdtech_.
 
