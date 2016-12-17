@@ -49,4 +49,5 @@ disqusShortname = "birdr"
 # Add additional social link entries underneath
 [social]
     github   = "https://www.github.com/birdrapp"
+    twitter  = "https://twitter.com/birdrapp"
     linkedin = "https://www.linkedin.com/in/matthew-williams"

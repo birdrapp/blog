@@ -1,7 +1,7 @@
 +++
 description = "What Birdr will be built with"
 title = "The Technology"
-date = "2016-12-15T08:28:47Z"
+date = "2016-12-20T16:51:47Z"
 draft = true
 +++
 
