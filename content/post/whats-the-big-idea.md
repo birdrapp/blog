@@ -22,7 +22,7 @@ One of the cool things I've added in the [NENBC](http://nenbc.co.uk/) applicatio
 
 ### Lists
 
-Birding is all about keeping lists. One of the must-have lists for birders is the life list. For a UK birder, this is the list of birds that you have seen within the UK shores since you started birding. Serious birders will have see upwards of 400 species. Once you get more into birding you might start finding you keep year lists, garden lists, lists specific to a particular county etc. Most applications, and [BirdLists](http://birdlists.me/) is no exception, place the onus of maintaining these lists on you. This can become a burden.
+Birding is all about keeping lists. One of the must-have lists for birders is the life list. For a UK birder, this is the list of birds that you have seen within the UK shores since you started birding. Serious birders will have seen upwards of 400 species. Once you get more into birding you might start finding you keep year lists, garden lists, lists specific to a particular county etc. Most applications, and [BirdLists](http://birdlists.me/) is no exception, place the onus of maintaining these lists on you. This can become a burden.
 
 #### Smart Lists
 
@@ -32,7 +32,7 @@ What if we could do something better? What if, rather than having to tell the ap
 * Must be seen in the UK
 * Must be on the [BOU list](https://www.bou.org.uk/british-list/)
 
-And it would apply these rules to your records, automatically maintaining your 2016 year list. Want to teak the rules? No problem, edit the parameters and the list will automatically update.
+And it would apply these rules to your records, automatically maintaining your 2016 year list. Want to tweak the rules? No problem, edit the parameters and the list will automatically update.
 
 If we have this feature it means the only thing you have to do is add your records and your lists will take care of themselves. Bliss.
 
@@ -66,7 +66,7 @@ The hope is this will help on board new birders by suggesting badges they can ai
 
 ### Rare bird alerts
 
-One of the nice things about having a community of birders adding records into a central system is that it becomes trivial to providing rare bird alerts becomes trivial. Rare bird alerts is something that many keen birders pay good money for. Birdr will provide notification of rare species over push notification and text message - straight to your phone. This is something I have already implemented successfully on the [NENBC](http://nenbc.co.uk/) website. These notifications should be configurable at the club and individual level. Don't care about specific species? Turn off the notifications.
+One of the nice things about having a community of birders adding records into a central system is that providing rare bird alerts becomes trivial. Rare bird alerts is something that many keen birders pay good money for. Birdr will provide notification of rare species over push notification and text message - straight to your phone. This is something I have already implemented successfully on the [NENBC](http://nenbc.co.uk/) website. These notifications should be configurable at the club and individual level. Don't care about specific species? Turn off the notifications.
 
 #### Reputation
 
