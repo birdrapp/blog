@@ -6,7 +6,7 @@ date = "2017-02-21T17:51:56Z"
 
 +++
 
-![Image of the logojoy website](/images/post/logojoy.png)
+![Image of the logojoy website](/images/post/logojoy.jpg)
 
 *Time passes exponentially quicker these days. It seems like only yesterday I finished writing my previous post - yet here we are, 2 months later.*
 
