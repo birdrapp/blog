@@ -10,7 +10,7 @@ date = "2017-02-21T17:51:56Z"
 
 *Time passes exponentially quicker these days. It seems like only yesterday I finished writing my previous post - yet here we are, 2 months later.*
 
-In an attempt to spark me back into life I'm writing a 'micro-post'. In a series I've imaginitavely called 'flyby' I will cover small topics that would bore you if I tried to write a full post about them; starting with [Logojoy](https://www.logojoy.com/)
+In an attempt to spark me back into life I'm writing a micro-post. In a series I've imaginitavely called flyby I will cover small topics that would bore you if I tried to write a full post about them; starting with [Logojoy](https://www.logojoy.com/)
 
 ### Logo love
 
