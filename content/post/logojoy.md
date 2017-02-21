@@ -1,8 +1,8 @@
 +++
 title = "Flyby: logojoy"
 description = "Great looking logos for $65"
-draft = true
-date = "2016-12-17T16:57:01Z"
+draft = false
+date = "2017-02-21T17:51:56Z"
 
 +++
 
